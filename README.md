@@ -1,3 +1,4 @@
+<br>
 <a href="https://discord.com/users/702535208779382815" target="_blank">
     <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/702535208779382815">
 </a>
